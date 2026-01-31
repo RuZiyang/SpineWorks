@@ -349,9 +349,9 @@ Thanks to all contributors and supporters! Special thanks to the open-source com
 <div align="center">
 
 **当前版本 / Current Version**: v0.1.0  
-**最后更新 / Last Updated**: 2024-01-30  
+**最后更新 / Last Updated**: 2026-01-31  
 **开发状态 / Status**: 🚧 Phase 1 Complete, Phase 2 Planning
 
-Made with ❤️ by SpineWorks Team
+Made with ❤️ by Ru Ziyang
 
 </div>
