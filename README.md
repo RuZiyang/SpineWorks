@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🕸️ Spineworks
+# 🐲 SpineWorks
 
 ### *Your AI-Powered Software Development Ecosystem*
 
