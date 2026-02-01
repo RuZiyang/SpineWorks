@@ -20,9 +20,9 @@
 
 <a name="english"></a>
 
-## 🌟 What is Spineworks?
+## 🌟 What is SpineWorks?
 
-**Spineworks** is a revolutionary AI-powered software development platform that transforms how you build software. Imagine having a team of 23+ specialized AI agents working together — from brainstorming your idea to deploying production-ready code.
+**SpineWorks** is a revolutionary AI-powered software development platform that transforms how you build software. Imagine having a team of 23+ specialized AI agents working together — from brainstorming your idea to deploying production-ready code.
 
 ### 🎯 The Vision
 
@@ -367,9 +367,9 @@ If you find Spineworks useful, please consider giving it a star! ⭐
 
 ---
 
-## 🌟 什么是 Spineworks？
+## 🌟 什么是 SpineWorks？
 
-**Spineworks** 是一个革命性的 AI 驱动软件开发平台，彻底改变你构建软件的方式。想象一下，拥有一个由 23+ 个专业 AI Agent 组成的团队 — 从头脑风暴到部署生产代码，全程协作。
+**SpineWorks** 是一个革命性的 AI 驱动软件开发平台，彻底改变你构建软件的方式。想象一下，拥有一个由 23+ 个专业 AI Agent 组成的团队 — 从头脑风暴到部署生产代码，全程协作。
 
 ### 🎯 愿景
 
