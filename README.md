@@ -357,7 +357,7 @@ If you find Spineworks useful, please consider giving it a star! ⭐
 
 <div align="center">
 
-# 🕸️ Spineworks
+# 🐲 SpineWorks
 
 ### *AI 驱动的软件开发生态系统*
 
